@@ -7,12 +7,12 @@ A personal toolkit for improving scientific writing, built on the ideas in *Writ
 ## What's Inside
 
 | Item | Purpose |
-|---|---|---|
+|---|---|
 | PowerPoint (`.pptx`) | A presentation on the book's core ideas, for sharing with my group |
 | Word (`.docx`) | An OCAR-structured paper template, ready to download and fill in |
 | `Scientific-Writing-Auditor/` Claude skill | A checklist-driven auditor for reviewing a paper after the first draft is done |
 
-#### Suggested Workflow
+## Suggested Workflow
 
 1. Finish the complete first draft.
 2. Ask Claude to audit the draft with `Scientific-Writing-Auditor`, one section at a time or for the whole paper.
